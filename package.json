@@ -1,0 +1,24 @@
+{
+  "name": "building-website-nodejs-express",
+  "version": "1.0.0",
+  "description": "This repository contains the code for my project 'Building a Website with Node.js Node.js' created only for learning purposes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtanasVihrogonov/BWNE.git"
+  },
+  "keywords": [],
+  "author": "Atanas Vihrogonov <Vihrogonov@protonmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtanasVihrogonov/BWNE/issues"
+  },
+  "homepage": "https://github.com/AtanasVihrogonov/BWNE#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
