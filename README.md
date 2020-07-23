@@ -1,6 +1,6 @@
 # Building a website with Node.js and Express
 
-This repository contains the code for my project 'Building a Website with Node.js Node.js' created only for learning purposes.
+This repository contains the code for my project 'Building a Website with Node.js' created only for learning purposes.
 
 ## Setting up the project
 
